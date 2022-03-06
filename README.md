@@ -1,4 +1,6 @@
-# <a href="https://github.com/Exio666/42-Cursus" ><p align='center' style="color:grey" >42 Cusrus</p></a>
+:construction: reorganistaion of Github perso
+
+## <a href="https://github.com/Exio666/42-Cursus" ><p align='center' style="color:green" >42 Cusrus</p></a>
 
 ### 42 Common core
 
