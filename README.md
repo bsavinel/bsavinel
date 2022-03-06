@@ -1,6 +1,4 @@
-# <div align='center' style="color:cyan"> 42 Scool</div>
-
-## <a href="https://github.com/Exio666/42-Cursus" style="color:grey">42 Cusrus</a>
+# <a href="https://github.com/Exio666/42-Cursus" ><p align='center' style="color:grey" >42 Cusrus</p></a>
 
 ### 42 Common core
 
