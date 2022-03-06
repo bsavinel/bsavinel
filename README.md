@@ -1,20 +1,20 @@
 :construction: Reorganistaion of my Github
 
-## <a href="https://github.com/Exio666/42-Cursus" ><p align='center' >42 Cusrus</p></a>
+## <a href="https://github.com/Exio666/42-Cursus" ><p align='center'>42 Cusrus</p></a>
 
 ### 42 Common core
 
-| Name                              | Languge | Note           |
-|-----------------------------------|---------|----------------|
-| [Libft][42-libft]                 | C       | 125            |
-| [Get_next_line][42-get_next_line] | C       | 125            |
-| [Ft_printf][42-ft_printf]         | C       | 125            |
-| [Born2beroot][42-Born2beroot]     |         | 125            |
-| [FdF][42-FdF]                     | C       | 125            |
-| [Push_swap][42-push_swap]         | C       | 125            |
-| [Minitalk][42-minitalk]           | C       | 125            |
-| [Philoshers][42-Philoshers]       | C       | 125            |
-| [Minishell][42-Minishell]         | C       | :construction: |
+| Name                              | Languge | Group                         | Note           |
+|-----------------------------------|---------|-------------------------------|----------------|
+| [Libft][42-libft]                 | C       | Solo                          | 125            |
+| [Get_next_line][42-get_next_line] | C       | Solo                          | 125            |
+| [Ft_printf][42-ft_printf]         | C       | Solo                          | 125            |
+| [Born2beroot][42-Born2beroot]     |         | Solo                          | 125            |
+| [FdF][42-FdF]                     | C       | Solo                          | 125            |
+| [Push_swap][42-push_swap]         | C       | Solo                          | 125            |
+| [Minitalk][42-minitalk]           | C       | Solo                          | 125            |
+| [Philoshers][42-Philoshers]       | C       | Solo                          | 125            |
+| [Minishell][42-Minishell]         | C       | Duo with [Rpottier][Rpottier] | :construction: |
 
 ### 42 Rush
 
@@ -22,8 +22,6 @@
 |-----------------------|---------|----------------------|------|
 | [Libunit][42-libunit] | C       | [Dhubleur][Dhubleur] | 102  |
 | [AlCu][42-AlCu]       | C       | [Plouvel][Plouvel]   | 117  |
-
-
 
 <!-- Lien repo github --->
 
