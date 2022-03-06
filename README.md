@@ -1,27 +1,29 @@
-:construction: reorganistaion of Github perso
+:construction: Reorganistaion of my Github
 
 ## <a href="https://github.com/Exio666/42-Cursus" ><p align='center' >42 Cusrus</p></a>
 
 ### 42 Common core
 
-
-| Name                              | Languge | Note |
-|-----------------------------------|---------|------|
-| [Libft][42-libft]                 | C       | 125  |
-| [Get_next_line][42-get_next_line] | C       | 125  |
-| [Ft_printf][42-ft_printf]         | C       | 125  |
-| [Born2beroot][42-Born2beroot]     |         | 125  |
-| [FdF][42-FdF]                     | C       | 125  |
-| [Push_swap][42-push_swap]         | C       | 125  |
-| [Minitalk][42-minitalk]           | C       | 125  |
-| [Philoshers][42-Philoshers]       | C       | 125  |
+| Name                              | Languge | Note           |
+|-----------------------------------|---------|----------------|
+| [Libft][42-libft]                 | C       | 125            |
+| [Get_next_line][42-get_next_line] | C       | 125            |
+| [Ft_printf][42-ft_printf]         | C       | 125            |
+| [Born2beroot][42-Born2beroot]     |         | 125            |
+| [FdF][42-FdF]                     | C       | 125            |
+| [Push_swap][42-push_swap]         | C       | 125            |
+| [Minitalk][42-minitalk]           | C       | 125            |
+| [Philoshers][42-Philoshers]       | C       | 125            |
+| [Minishell][42-Minishell]         | C       | :construction: |
 
 ### 42 Rush
 
-| Name                  | Languge | Note |
-|-----------------------|---------|------|
-| [Libunit][42-libunit] | C       | 102  |
-| [AlCu][42-AlCu]       | C       | 117  |
+| Name                  | Languge | Mate                 | Note |
+|-----------------------|---------|----------------------|------|
+| [Libunit][42-libunit] | C       | [Dhubleur][Dhubleur] | 102  |
+| [AlCu][42-AlCu]       | C       | [Plouvel][Plouvel]   | 117  |
+
+
 
 <!-- Lien repo github --->
 
@@ -36,3 +38,10 @@
 [42-Philoshers]: https://github.com/Exio666/42-Philosophers
 [42-libunit]: https://github.com/Exio666/42-libunit
 [42-AlCu]: https://github.com/Exio666/42-AlCu
+[42-Minishell]: https://github.com/Exio666/42-Minishell
+
+<!-- Mate of project --->
+
+[Plouvel]: https://github.com/noctuelles
+[Dhubleur]: https://github.com/dams333
+[Rpottier]: https://github.com/RodolphePottier
