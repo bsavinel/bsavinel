@@ -1,6 +1,6 @@
 :construction: Reorganistaion of my Github
 
-## <a href="https://github.com/Exio666/42-Cursus" ><p align='center'>42 Cusrus</p></a>
+## <p align='center'>42 Cusrus</p>
 
 ### 42 Common core
 
@@ -25,7 +25,6 @@
 
 <!-- Lien repo github --->
 
-[42-cursus]: https://github.com/Exio666/42-Cursus
 [42-libft]: https://github.com/Exio666/42-libft
 [42-get_next_line]: https://github.com/Exio666/42-get_next_line
 [42-ft_printf]: https://github.com/Exio666/42-ft_printf
