@@ -26,7 +26,7 @@
 <!-- Lien repo github --->
 
 [42-cursus]: https://github.com/Exio666/42-Cursus
-[42-libft]: https://github.com/Exio666/42-Philosophers
+[42-libft]: https://github.com/Exio666/42-libft
 [42-get_next_line]: https://github.com/Exio666/42-get_next_line
 [42-ft_printf]: https://github.com/Exio666/42-ft_printf
 [42-Born2beroot]: https://github.com/Exio666/42-Born2beroot
