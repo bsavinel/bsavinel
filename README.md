@@ -15,7 +15,7 @@
 | [Minitalk][42-minitalk]           | C       | Solo                          | 125            |
 | [Philoshers][42-Philoshers]       | C       | Solo                          | 125            |
 | [Minishell][42-Minishell]         | C       | Duo with [Rpottier][Rpottier] | :construction: |
-
+| [Modules_CPP][42-CPP_Modules]     | C++     | Solo                          | :construction: |
 ### 42 Rush
 
 | Name                  | Languge | Mate                 | Note |
@@ -25,6 +25,7 @@
 
 <!-- Lien repo github --->
 
+[42-CPP_Modules]: https://github.com/Exio666/42-CPP_Modules
 [42-libft]: https://github.com/Exio666/42-libft
 [42-get_next_line]: https://github.com/Exio666/42-get_next_line
 [42-ft_printf]: https://github.com/Exio666/42-ft_printf
