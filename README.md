@@ -1,21 +1,21 @@
-:construction: Reorganistaion of my Github
+:construction: Reorganisation of my Github
 
-## <p align='center'>42 Cusrus</p>
+## <p align='center'>42 Cursus</p>
 
 ### 42 Common core
 
-| Name                              | Languge | Group                         | Note           |
-|-----------------------------------|---------|-------------------------------|----------------|
-| [Libft][42-libft]                 | C       | Solo                          | 125            |
-| [Get_next_line][42-get_next_line] | C       | Solo                          | 125            |
-| [Ft_printf][42-ft_printf]         | C       | Solo                          | 125            |
-| [Born2beroot][42-Born2beroot]     |         | Solo                          | 125            |
-| [FdF][42-FdF]                     | C       | Solo                          | 125            |
-| [Push_swap][42-push_swap]         | C       | Solo                          | 125            |
-| [Minitalk][42-minitalk]           | C       | Solo                          | 125            |
-| [Philoshers][42-Philoshers]       | C       | Solo                          | 125            |
-| [Minishell][42-Minishell]         | C       | Duo with [Rpottier][Rpottier] | :construction: |
-| [Modules_CPP][42-CPP_Modules]     | C++     | Solo                          | :construction: |
+| Name                              | Langauge | Group                         | Note           |
+|-----------------------------------|----------|-------------------------------|----------------|
+| [Libft][42-libft]                 | C        | Solo                          | 125            |
+| [Get_next_line][42-get_next_line] | C        | Solo                          | 125            |
+| [Ft_printf][42-ft_printf]         | C        | Solo                          | 125            |
+| [Born2beroot][42-Born2beroot]     |          | Solo                          | 125            |
+| [FdF][42-FdF]                     | C        | Solo                          | 125            |
+| [Push_swap][42-push_swap]         | C        | Solo                          | 125            |
+| [Minitalk][42-minitalk]           | C        | Solo                          | 125            |
+| [Philoshers][42-Philoshers]       | C        | Solo                          | 125            |
+| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | :construction: |
+| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | :construction: |
 ### 42 Rush
 
 | Name                  | Languge | Mate                 | Note |
