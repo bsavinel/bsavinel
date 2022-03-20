@@ -4,7 +4,7 @@
 
 ### 42 Common core
 
-| Name                              | Langauge | Group                         | Note           |
+| Name                              | Language | Group                         | Note           |
 |-----------------------------------|----------|-------------------------------|----------------|
 | [Libft][42-libft]                 | C        | Solo                          | 125            |
 | [Get_next_line][42-get_next_line] | C        | Solo                          | 125            |
@@ -16,12 +16,14 @@
 | [Philoshers][42-Philoshers]       | C        | Solo                          | 125            |
 | [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | :construction: |
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | :construction: |
+
 ### 42 Rush
 
-| Name                  | Languge | Mate                 | Note |
+| Name                  | Language | Mate                 | Note |
 |-----------------------|---------|----------------------|------|
 | [Libunit][42-libunit] | C       | [Dhubleur][Dhubleur] | 102  |
 | [AlCu][42-AlCu]       | C       | [Plouvel][Plouvel]   | 117  |
+| [2048][Wong_kar_Wai]  | C       | [Tmorris][Tmorris]   |  :construction:    |
 
 <!-- Lien repo github --->
 
@@ -37,9 +39,11 @@
 [42-libunit]: https://github.com/Exio666/42-libunit
 [42-AlCu]: https://github.com/Exio666/42-AlCu
 [42-Minishell]: https://github.com/Exio666/42-Minishell
+[42-Wong_kar_Wai]: https://github.com/Exio666/42-Wong_kar_Wai
 
 <!-- Mate of project --->
 
 [Plouvel]: https://github.com/noctuelles
 [Dhubleur]: https://github.com/dams333
 [Rpottier]: https://github.com/RodolphePottier
+[Tmorris]: https://github.com/tmorris42
