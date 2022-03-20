@@ -19,11 +19,11 @@
 
 ### 42 Rush
 
-| Name                  | Language | Mate                 | Note |
-|-----------------------|---------|----------------------|------|
-| [Libunit][42-libunit] | C       | [Dhubleur][Dhubleur] | 102  |
-| [AlCu][42-AlCu]       | C       | [Plouvel][Plouvel]   | 117  |
-| [2048][Wong_kar_Wai]  | C       | [Tmorris][Tmorris]   |  :construction:    |
+| Name                     | Language | Mate                 | Note |
+|--------------------------|----------|----------------------|------|
+| [Libunit][42-libunit]    | C        | [Dhubleur][Dhubleur] | 102  |
+| [AlCu][42-AlCu]          | C        | [Plouvel][Plouvel]   | 117  |
+| [2048][42-Wong_kar_Wai]  | C        | [Tmorris][Tmorris]   |  :construction:    |
 
 <!-- Lien repo github --->
 
