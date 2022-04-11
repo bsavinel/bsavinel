@@ -24,7 +24,7 @@
 | [Libunit][42-libunit]    | C        | [Dhubleur][Dhubleur] | 102  |
 | [AlCu][42-AlCu]          | C        | [Plouvel][Plouvel]   | 117  |
 | [2048][42-Wong_kar_Wai]  | C        | [Tmorris][Tmorris]   | 100  |
-| [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       | :construction: |
+| [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       | 100  |
 
 <!-- Lien repo github --->
 
