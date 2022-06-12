@@ -19,13 +19,14 @@
 
 ### 42 Rush
 
-| Name                     | Language | Mate                 | Note |
-|--------------------------|----------|----------------------|------|
-| [Libunit][42-libunit]    | C        | [Dhubleur][Dhubleur] | 117  |
-| [AlCu][42-AlCu]          | C        | [Plouvel][Plouvel]   | 102  |
-| [2048][42-Wong_kar_Wai]  | C        | [Tmorris][Tmorris]   | 100  |
-| [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       | 100  |
-| [Wordle][42-Wordle]      | C++      | [Omoudni][Omoudni]   | 100  |
+| Name                       | Language | Mate                 | Note |
+|----------------------------|----------|----------------------|------|
+| [Libunit][42-libunit]      | C        | [Dhubleur][Dhubleur] | 117  |
+| [AlCu][42-AlCu]            | C        | [Plouvel][Plouvel]   | 102  |
+| [2048][42-Wong_kar_Wai]    | C        | [Tmorris][Tmorris]   | 100  |
+| [YASL][42-YASL]            | yasl     | [Bcano][Bcano]       | 100  |
+| [Wordle][42-Wordle]        | C++      | [Omoudni][Omoudni]   | 100  |
+| [42-Connect4][42-Connect4] | C        | [Plouvel][Plouvel]   | :construction: |
 
 <!-- Lien repo github --->
 
@@ -44,6 +45,7 @@
 [42-Wong_kar_Wai]: https://github.com/Exio666/42-Wong_kar_Wai
 [42-YASL]: https://github.com/Exio666/42-YASL
 [42-Wordle]: https://github.com/Exio666/42-Wordle
+[42-Connect4]: https://github.com/Exio666/42-Connect4
 
 <!-- Mate of project --->
 
