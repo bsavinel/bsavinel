@@ -26,7 +26,7 @@
 | [2048][42-Wong_kar_Wai]    | C        | [Tmorris][Tmorris]   | 100  |
 | [YASL][42-YASL]            | yasl     | [Bcano][Bcano]       | 100  |
 | [Wordle][42-Wordle]        | C++      | [Omoudni][Omoudni]   | 100  |
-| [42-Connect4][42-Connect4] | C        | [Plouvel][Plouvel]   | :construction: |
+| [Connect4][42-Connect4] | C        | [Plouvel][Plouvel]   | :construction: |
 
 <!-- Lien repo github --->
 
