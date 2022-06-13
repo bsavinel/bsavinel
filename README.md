@@ -16,7 +16,7 @@
 | [Philoshers][42-Philoshers]       | C        | Solo                          | 125            |
 | [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | 125            |
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | :construction: |
-| [MiniRT][42-minirt]               | C        | Duo with [Plouvel][Plouvel]   | :construction: |
+| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]   | :construction: |
 
 ### 42 Rush
 
@@ -47,7 +47,7 @@
 [42-YASL]: https://github.com/Exio666/42-YASL
 [42-Wordle]: https://github.com/Exio666/42-Wordle
 [42-Connect4]: https://github.com/Exio666/42-Connect4
-[42-minirt]: https://github.com/noctuelles/42-minirt
+[42-miniRT]: https://github.com/Exio666/42-miniRT
 
 <!-- Mate of project --->
 
