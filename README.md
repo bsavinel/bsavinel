@@ -16,7 +16,7 @@
 | [Philoshers][42-Philoshers]       | C        | Solo                          | 125            |
 | [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | 125            |
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | :construction: |
-| [Minirt][42-minirt]               | C        | Duo with [Plouvel][Plouvel]   | :construction: |
+| [MiniRT][42-minirt]               | C        | Duo with [Plouvel][Plouvel]   | :construction: |
 
 ### 42 Rush
 
