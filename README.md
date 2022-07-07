@@ -17,6 +17,8 @@
 | [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | 125            |
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | :construction: |
 | [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]   | :construction: |
+| [ft_containers][42-ft_containers] | C++      | Solo                          | :construction: |
+| [Inception][42-Inception]         | Docker   | Solo                          | :construction: |
 
 ### 42 Rush
 
@@ -48,6 +50,8 @@
 [42-Wordle]: https://github.com/Exio666/42-Wordle
 [42-Connect4]: https://github.com/Exio666/42-Connect4
 [42-miniRT]: https://github.com/Exio666/42-miniRT
+[42-ft_containers]:https://github.com/Exio666/ft_containers
+[42-Inception]:https://github.com/Exio666/42-Inception
 
 <!-- Mate of project --->
 
