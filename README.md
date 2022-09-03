@@ -1,24 +1,25 @@
-:construction: Reorganisation of my Github
+:construction: Add great Readme inside projects
 
 ## <p align='center'>42 Cursus</p>
 
 ### 42 Common core
 
-| Name                              | Language | Group                         | Note           |
-|-----------------------------------|----------|-------------------------------|----------------|
-| [Libft][42-libft]                 | C        | Solo                          | 125            |
-| [Get_next_line][42-get_next_line] | C        | Solo                          | 125            |
-| [Ft_printf][42-ft_printf]         | C        | Solo                          | 125            |
-| [Born2beroot][42-Born2beroot]     |          | Solo                          | 125            |
-| [FdF][42-FdF]                     | C        | Solo                          | 125            |
-| [Push_swap][42-push_swap]         | C        | Solo                          | 125            |
-| [Minitalk][42-minitalk]           | C        | Solo                          | 125            |
-| [Philoshers][42-Philoshers]       | C        | Solo                          | 125            |
-| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier] | 125            |
-| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                          | 9 x 100        |
-| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]   | 125            |
-| [ft_containers][42-ft_containers] | C++      | Solo                          | :construction: |
-| [Inception][42-Inception]         | Docker   | Solo                          | :construction: |
+| Name                              | Language | Group                                                   | Note           |
+|-----------------------------------|----------|---------------------------------------------------------|----------------|
+| [Libft][42-libft]                 | C        | Solo                                                    | 125            |
+| [Get_next_line][42-get_next_line] | C        | Solo                                                    | 125            |
+| [Ft_printf][42-ft_printf]         | C        | Solo                                                    | 125            |
+| [Born2beroot][42-Born2beroot]     |          | Solo                                                    | 125            |
+| [FdF][42-FdF]                     | C        | Solo                                                    | 125            |
+| [Push_swap][42-push_swap]         | C        | Solo                                                    | 125            |
+| [Minitalk][42-minitalk]           | C        | Solo                                                    | 125            |
+| [Philoshers][42-Philoshers]       | C        | Solo                                                    | 125            |
+| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier]                           | 125            |
+| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    | 9 x 100        |
+| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             | 125            |
+| [ft_containers][42-ft_containers] | C++      | Solo                                                    | :construction: |
+| Webserv                           | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] | :construction: |
+| [Inception][42-Inception]         | Docker   | Solo                                                    | :construction: |
 
 ### 42 Rush
 
@@ -30,7 +31,7 @@
 | [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       | 100  |
 | [Wordle][42-Wordle]      | C++      | [Omoudni][Omoudni]   | 100  |
 | [Connect4][42-Connect4]  | C        | [Plouvel][Plouvel]   | 100  |
-|  Retro-MFA               | C        | [Ojauregu][Ojauregu] | 100  |
+| Retro-MFA                | C        | [Ojauregu][Ojauregu] | 100  |
 
 <!-- Lien repo github --->
 
@@ -56,6 +57,7 @@
 
 <!-- Mate of project --->
 
+[Nburat-d]: https://github.com/nicolasb1607
 [Plouvel]: https://github.com/noctuelles
 [Dhubleur]: https://github.com/dams333
 [Rpottier]: https://github.com/RodolphePottier
