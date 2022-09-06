@@ -18,7 +18,7 @@
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    | 9 x 100        |
 | [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             | 125            |
 | [ft_containers][42-ft_containers] | C++      | Solo                                                    | :construction: |
-| Webserv                           | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] | :construction: |
+| [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] | :construction: |
 | [Inception][42-Inception]         | Docker   | Solo                                                    | :construction: |
 
 ### 42 Rush
@@ -53,6 +53,7 @@
 [42-Connect4]: https://github.com/Exio666/42-Connect4
 [42-miniRT]: https://github.com/Exio666/42-miniRT
 [42-ft_containers]:https://github.com/Exio666/ft_containers
+[42-Webserv]:https://github.com/Exio666/42-Webserv
 [42-Inception]:https://github.com/Exio666/42-Inception
 
 <!-- Mate of project --->
