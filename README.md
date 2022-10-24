@@ -17,7 +17,7 @@
 | [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier]                           | 125            |
 | [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    | 9 x 100        |
 | [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             | 125            |
-| [ft_containers][42-ft_containers] | C++      | Solo                                                    | :construction: |
+| [ft_containers][42-ft_containers] | C++      | Solo                                                    | 125            |
 | [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] | :construction: |
 | [Inception][42-Inception]         | Docker   | Solo                                                    | :construction: |
 
