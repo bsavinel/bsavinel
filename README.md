@@ -52,7 +52,7 @@
 [42-Wordle]: https://github.com/Exio666/42-Wordle
 [42-Connect4]: https://github.com/Exio666/42-Connect4
 [42-miniRT]: https://github.com/Exio666/42-miniRT
-[42-ft_containers]:https://github.com/Exio666/ft_containers
+[42-ft_containers]:https://github.com/Exio666/42-ft_containers
 [42-Webserv]:https://github.com/Exio666/42-Webserv
 [42-Inception]:https://github.com/Exio666/42-Inception
 
