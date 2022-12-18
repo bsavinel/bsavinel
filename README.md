@@ -4,34 +4,34 @@
 
 ### 42 Common core
 
-| Name                              | Language | Group                                                   | Note           |
-|-----------------------------------|----------|---------------------------------------------------------|----------------|
-| [Libft][42-libft]                 | C        | Solo                                                    | 125            |
-| [Get_next_line][42-get_next_line] | C        | Solo                                                    | 125            |
-| [Ft_printf][42-ft_printf]         | C        | Solo                                                    | 125            |
-| [Born2beroot][42-Born2beroot]     |          | Solo                                                    | 125            |
-| [FdF][42-FdF]                     | C        | Solo                                                    | 125            |
-| [Push_swap][42-push_swap]         | C        | Solo                                                    | 125            |
-| [Minitalk][42-minitalk]           | C        | Solo                                                    | 125            |
-| [Philoshers][42-Philoshers]       | C        | Solo                                                    | 125            |
-| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier]                           | 125            |
-| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    | 9 x 100        |
-| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             | 125            |
-| [ft_containers][42-ft_containers] | C++      | Solo                                                    | 125            |
-| [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] | :construction: |
-| [Inception][42-Inception]         | Docker   | Solo                                                    | :construction: |
+| Name                              | Language | Group                                                   |
+|-----------------------------------|----------|---------------------------------------------------------|
+| [Libft][42-libft]                 | C        | Solo                                                    |
+| [Get_next_line][42-get_next_line] | C        | Solo                                                    |
+| [Ft_printf][42-ft_printf]         | C        | Solo                                                    |
+| [Born2beroot][42-Born2beroot]     |          | Solo                                                    |
+| [FdF][42-FdF]                     | C        | Solo                                                    |
+| [Push_swap][42-push_swap]         | C        | Solo                                                    |
+| [Minitalk][42-minitalk]           | C        | Solo                                                    |
+| [Philoshers][42-Philoshers]       | C        | Solo                                                    |
+| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier]                           |
+| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    |
+| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             |
+| [ft_containers][42-ft_containers] | C++      | Solo                                                    |
+| [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] |
+| [Inception][42-Inception]         | Docker   | Solo                                                    |
 
 ### 42 Rush
 
-| Name                     | Language | Mate                 | Note |
-|--------------------------|----------|----------------------|------|
-| [Libunit][42-libunit]    | C        | [Dhubleur][Dhubleur] | 117  |
-| [AlCu][42-AlCu]          | C        | [Plouvel][Plouvel]   | 102  |
-| [2048][42-Wong_kar_Wai]  | C        | [Tmorris][Tmorris]   | 100  |
-| [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       | 100  |
-| [Wordle][42-Wordle]      | C++      | [Omoudni][Omoudni]   | 100  |
-| [Connect4][42-Connect4]  | C        | [Plouvel][Plouvel]   | 100  |
-| Retro-MFA                | C        | [Ojauregu][Ojauregu] | 100  |
+| Name                     | Language | Mate                 |
+|--------------------------|----------|----------------------|
+| [Libunit][42-libunit]    | C        | [Dhubleur][Dhubleur] |
+| [AlCu][42-AlCu]          | C        | [Plouvel][Plouvel]   |
+| [2048][42-Wong_kar_Wai]  | C        | [Tmorris][Tmorris]   |
+| [YASL][42-YASL]          | yasl     | [Bcano][Bcano]       |
+| [Wordle][42-Wordle]      | C++      | [Omoudni][Omoudni]   |
+| [Connect4][42-Connect4]  | C        | [Plouvel][Plouvel]   |
+| Retro-MFA                | C        | [Ojauregu][Ojauregu] |
 
 <!-- Lien repo github --->
 
