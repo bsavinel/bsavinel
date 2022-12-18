@@ -1,8 +1,10 @@
 :construction: Add great Readme inside projects
 
-## <p align='center'>42 Cursus</p>
+<details open>
+<summary align='center'> <h2> 42 Cursus </h2> </summary>
 
-### 42 Common core
+<details open>
+<summary align='center'> <h3> 42 Common core </h3> </summary>
 
 | Name                              | Language | Group                                                   |
 |-----------------------------------|----------|---------------------------------------------------------|
@@ -21,7 +23,9 @@
 | [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] |
 | [Inception][42-Inception]         | Docker   | Solo                                                    |
 
-### 42 Rush
+</details>
+<details open>
+<summary align='center'> <h3> 42 Rush </h3> </summary>
 
 | Name                     | Language | Mate                 |
 |--------------------------|----------|----------------------|
@@ -32,6 +36,9 @@
 | [Wordle][42-Wordle]      | C++      | [Omoudni][Omoudni]   |
 | [Connect4][42-Connect4]  | C        | [Plouvel][Plouvel]   |
 | Retro-MFA                | C        | [Ojauregu][Ojauregu] |
+
+</details>
+</details>
 
 <!-- Lien repo github --->
 
