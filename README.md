@@ -6,22 +6,23 @@
 <details open>
 <summary align='center'> <h3> 42 Common core </h3> </summary>
 
-| Name                              | Language | Group                                                   |
-|-----------------------------------|----------|---------------------------------------------------------|
-| [Libft][42-libft]                 | C        | Solo                                                    |
-| [Get_next_line][42-get_next_line] | C        | Solo                                                    |
-| [Ft_printf][42-ft_printf]         | C        | Solo                                                    |
-| [Born2beroot][42-Born2beroot]     |          | Solo                                                    |
-| [FdF][42-FdF]                     | C        | Solo                                                    |
-| [Push_swap][42-push_swap]         | C        | Solo                                                    |
-| [Minitalk][42-minitalk]           | C        | Solo                                                    |
-| [Philoshers][42-Philoshers]       | C        | Solo                                                    |
-| [Minishell][42-Minishell]         | C        | Duo with [Rpottier][Rpottier]                           |
-| [Modules_CPP][42-CPP_Modules]     | C++      | Solo                                                    |
-| [MiniRT][42-miniRT]               | C        | Duo with [Plouvel][Plouvel]                             |
-| [ft_containers][42-ft_containers] | C++      | Solo                                                    |
-| [Webserv][42-Webserv]             | C++      | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d] |
-| [Inception][42-Inception]         | Docker   | Solo                                                    |
+| Name                              | Language     | Group                                                                        |
+|-----------------------------------|--------------|------------------------------------------------------------------------------|
+| [Libft][42-libft]                 | C            | Solo                                                                         |
+| [Get_next_line][42-get_next_line] | C            | Solo                                                                         |
+| [Ft_printf][42-ft_printf]         | C            | Solo                                                                         |
+| [Born2beroot][42-Born2beroot]     |              | Solo                                                                         |
+| [FdF][42-FdF]                     | C            | Solo                                                                         |
+| [Push_swap][42-push_swap]         | C            | Solo                                                                         |
+| [Minitalk][42-minitalk]           | C            | Solo                                                                         |
+| [Philoshers][42-Philoshers]       | C            | Solo                                                                         |
+| [Minishell][42-Minishell]         | C            | Duo with [Rpottier][Rpottier]                                                |
+| [Modules_CPP][42-CPP_Modules]     | C++          | Solo                                                                         |
+| [MiniRT][42-miniRT]               | C            | Duo with [Plouvel][Plouvel]                                                  |
+| [ft_containers][42-ft_containers] | C++          | Solo                                                                         |
+| [Webserv][42-Webserv]             | C++          | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d]                      |
+| [Inception][42-Inception]         | Docker       | Solo                                                                         |
+| ft_transcendence                  | React/Nestjs | Group with [Cdefonte][Cdefonte], [Jguigli][Jguigli] and [Ranuytte][Ranuytte] |
 
 </details>
 
@@ -86,3 +87,6 @@
 [Bcano]: https://github.com/BarbaraC12
 [Omoudni]: https://github.com/OUAFABULOUS
 [Ojauregu]: https://github.com/Oceanejau
+[Cdefonte]: https://github.com/cdefonte42
+[Jguigli]: https://github.com/Thegreymago
+[Ranuytte]: https://gitlab.com/ranuytte
