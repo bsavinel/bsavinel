@@ -24,6 +24,17 @@
 | [Inception][42-Inception]         | Docker   | Solo                                                    |
 
 </details>
+
+<details open>
+<summary align='center'> <h3> 42 Machine Learning </h3> </summary>
+
+| Name                                            | Language | Group |
+|-------------------------------------------------|----------|-------|
+| [Modules_ML][42-Modules ML]                     | Python   | Solo  |
+| [ft_linear_regression][42-ft_linear_regression] | Python   | Solo  |
+
+</details>
+
 <details open>
 <summary align='center'> <h3> 42 Rush </h3> </summary>
 
@@ -42,7 +53,7 @@
 
 <!-- Lien repo github --->
 
-[42-CPP_Modules]: https://github.cExio666om/bsavinel/42-CPP_Modules
+[42-CPP_Modules]: https://github.com/bsavinel/42-CPP_Modules
 [42-libft]: https://github.com/bsavinel/42-libft
 [42-get_next_line]: https://github.com/bsavinel/42-get_next_line
 [42-ft_printf]: https://github.com/bsavinel/42-ft_printf
@@ -62,6 +73,8 @@
 [42-ft_containers]:https://github.com/bsavinel/42-ft_containers
 [42-Webserv]:https://github.com/bsavinel/42-Webserv
 [42-Inception]:https://github.com/bsavinel/42-Inception
+[42-ft_linear_regression]:https://github.com/bsavinel/42-ft_linear_regression
+[42-Modules ML]:https://github.com/bsavinel/42-ML_Module
 
 <!-- Mate of project --->
 
