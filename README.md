@@ -1,5 +1,3 @@
-:construction: Add great Readme inside projects
-
 <details open>
 <summary align='center'> <h2> 42 Cursus </h2> </summary>
 
@@ -27,7 +25,10 @@
 </details>
 
 <details open>
-<summary align='center'> <h3> 42 Machine Learning </h3> </summary>
+<summary align='center'> <h3> 42 Post Common Core </h3> </summary>
+
+<details open>
+<summary> <h3> 42 Machine Learning </h3> </summary>
 
 | Name                                            | Language | Group |
 |-------------------------------------------------|----------|-------|
@@ -37,6 +38,16 @@
 </details>
 
 <details open>
+<summary> <h3> 42 Other </h3> </summary>
+
+| Name                | Language | Group |
+|---------------------|----------|-------|
+| [Libasm][42-Libasm] | Assembly | Solo  |
+
+</details>
+</details>
+
+<details close>
 <summary align='center'> <h3> 42 Rush </h3> </summary>
 
 | Name                     | Language | Mate                 |
@@ -76,6 +87,7 @@
 [42-Inception]:https://github.com/bsavinel/42-Inception
 [42-ft_linear_regression]:https://github.com/bsavinel/42-ft_linear_regression
 [42-Modules ML]:https://github.com/bsavinel/42-ML_Module
+[42-Libasm]:https://github.com/bsavinel/42-libasm
 
 <!-- Mate of project --->
 
