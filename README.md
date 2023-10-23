@@ -38,6 +38,16 @@
 </details>
 
 <details open>
+<summary> <h3> 42 Cybersecurity </h3> </summary>
+
+| Name                         | Language | Group                      |
+|------------------------------|----------|----------------------------|
+| [42-SnowCrash][42-SnowCrash] | Multiple | Duo with [Rpoder][Rpoder]  |
+| [Rainfall][42-rainfall]      | Multiple | Duo with [Rpoder][Rpoder]  |
+
+</details>
+  
+<details open>
 <summary> <h3> 42 Other </h3> </summary>
 
 | Name                | Language | Group |
@@ -88,6 +98,8 @@
 [42-ft_linear_regression]:https://github.com/bsavinel/42-ft_linear_regression
 [42-Modules ML]:https://github.com/bsavinel/42-ML_Module
 [42-Libasm]:https://github.com/bsavinel/42-libasm
+[42-SnowCrash]:https://github.com/bsavinel/42-SnowCrash
+[42-rainfall]:https://github.com/rpoder/42-rainfall
 
 <!-- Mate of project --->
 
@@ -102,3 +114,4 @@
 [Cdefonte]: https://github.com/cdefonte42
 [Jguigli]: https://github.com/Thegreymago
 [Ranuytte]: https://gitlab.com/ranuytte
+[Rpoder]: https://github.com/rpoder
