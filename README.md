@@ -1,8 +1,20 @@
-<details open>
-<summary align='center'> <h2> 42 Cursus </h2> </summary>
+<h1 align='center'> Skills & Technologies </h1>
 
-<details open>
-<summary align='center'> <h3> 42 Common core </h3> </summary>
+![C]
+![C++]
+![Python]
+![Docker]
+![ReactJs]
+![NestJS]
+![PostgreSQL]
+
+<h1 align='center'> Github resume </h1>
+
+![Langage_github]
+
+<h1 align='center'> 42 Cursus </h1>
+
+<h2> 42 Common core </h2>
 
 | Name                              | Language     | Group                                                                        |
 |-----------------------------------|--------------|------------------------------------------------------------------------------|
@@ -22,43 +34,34 @@
 | [Inception][42-Inception]         | Docker       | Solo                                                                         |
 | ft_transcendence                  | React/Nestjs | Group with [Cdefonte][Cdefonte], [Jguigli][Jguigli] and [Ranuytte][Ranuytte] |
 
-</details>
 
-<details open>
-<summary align='center'> <h3> 42 Post Common Core </h3> </summary>
+<h2> 42 Post Common Core </h2>
 
-<details open>
-<summary> <h3> 42 Machine Learning </h3> </summary>
+
+<h3> 42 Machine Learning </h3> 
 
 | Name                                            | Language | Group |
 |-------------------------------------------------|----------|-------|
 | [Modules_ML][42-Modules ML]                     | Python   | Solo  |
 | [ft_linear_regression][42-ft_linear_regression] | Python   | Solo  |
 
-</details>
 
-<details open>
-<summary> <h3> 42 Cybersecurity </h3> </summary>
+<h3> 42 Cybersecurity </h3>
 
 | Name                         | Language | Group                      |
 |------------------------------|----------|----------------------------|
 | [42-SnowCrash][42-SnowCrash] | Multiple | Duo with [Rpoder][Rpoder]  |
 | [Rainfall][42-rainfall]      | Multiple | Duo with [Rpoder][Rpoder]  |
 
-</details>
-  
-<details open>
-<summary> <h3> 42 Other </h3> </summary>
+
+<h3> 42 Other </h3>
 
 | Name                | Language | Group |
 |---------------------|----------|-------|
 | [Libasm][42-Libasm] | Assembly | Solo  |
 
-</details>
-</details>
 
-<details close>
-<summary align='center'> <h3> 42 Rush </h3> </summary>
+<h2> 42 Rush </h2>
 
 | Name                     | Language | Mate                 |
 |--------------------------|----------|----------------------|
@@ -70,8 +73,8 @@
 | [Connect4][42-Connect4]  | C        | [Plouvel][Plouvel]   |
 | Retro-MFA                | C        | [Ojauregu][Ojauregu] |
 
-</details>
-</details>
+
+
 
 <!-- Lien repo github --->
 
@@ -115,3 +118,14 @@
 [Jguigli]: https://github.com/Thegreymago
 [Ranuytte]: https://gitlab.com/ranuytte
 [Rpoder]: https://github.com/rpoder
+
+<!-- Github Link --->
+
+[Langage_github]: https://github-readme-stats.vercel.app/api/top-langs/?username=bsavinel&hide=roff,php,html,perl&layout=compact&theme=radical&show
+[C]:https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[C++]:https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Docker]:https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+[Python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[ReactJs]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[PostgreSQL]:https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[NestJs]:https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white
