@@ -3,6 +3,7 @@
 ![C]
 ![C++]
 ![Python]
+![Git]
 ![Docker]
 ![ReactJs]
 ![NestJS]
@@ -129,3 +130,4 @@
 [ReactJs]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [PostgreSQL]:https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [NestJs]:https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white
+[Git]:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
