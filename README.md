@@ -9,31 +9,29 @@
 ![NestJS]
 ![PostgreSQL]
 
-<h1 align='center'> Github resume </h1>
-
 ![Langage_github]
 
 <h1 align='center'> 42 Cursus </h1>
 
 <h2> 42 Common core </h2>
 
-| Name                              | Language     | Group                                                                        |
-|-----------------------------------|--------------|------------------------------------------------------------------------------|
-| [Libft][42-libft]                 | C            | Solo                                                                         |
-| [Get_next_line][42-get_next_line] | C            | Solo                                                                         |
-| [Ft_printf][42-ft_printf]         | C            | Solo                                                                         |
-| [Born2beroot][42-Born2beroot]     |              | Solo                                                                         |
-| [FdF][42-FdF]                     | C            | Solo                                                                         |
-| [Push_swap][42-push_swap]         | C            | Solo                                                                         |
-| [Minitalk][42-minitalk]           | C            | Solo                                                                         |
-| [Philoshers][42-Philoshers]       | C            | Solo                                                                         |
-| [Minishell][42-Minishell]         | C            | Duo with [Rpottier][Rpottier]                                                |
-| [Modules_CPP][42-CPP_Modules]     | C++          | Solo                                                                         |
-| [MiniRT][42-miniRT]               | C            | Duo with [Plouvel][Plouvel]                                                  |
-| [ft_containers][42-ft_containers] | C++          | Solo                                                                         |
-| [Webserv][42-Webserv]             | C++          | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d]                      |
-| [Inception][42-Inception]         | Docker       | Solo                                                                         |
-| ft_transcendence                  | React/Nestjs | Group with [Cdefonte][Cdefonte], [Jguigli][Jguigli] and [Ranuytte][Ranuytte] |
+| Name                                   | Language     | Group                                                                        |
+|----------------------------------------|--------------|------------------------------------------------------------------------------|
+| [Libft][42-libft]                      | C            | Solo                                                                         |
+| [Get_next_line][42-get_next_line]      | C            | Solo                                                                         |
+| [Ft_printf][42-ft_printf]              | C            | Solo                                                                         |
+| [Born2beroot][42-Born2beroot]          |              | Solo                                                                         |
+| [FdF][42-FdF]                          | C            | Solo                                                                         |
+| [Push_swap][42-push_swap]              | C            | Solo                                                                         |
+| [Minitalk][42-minitalk]                | C            | Solo                                                                         |
+| [Philoshers][42-Philoshers]            | C            | Solo                                                                         |
+| [Minishell][42-Minishell]              | C            | Duo with [Rpottier][Rpottier]                                                |
+| [Modules_CPP][42-CPP_Modules]          | C++          | Solo                                                                         |
+| [MiniRT][42-miniRT]                    | C            | Duo with [Plouvel][Plouvel]                                                  |
+| [ft_containers][42-ft_containers]      | C++          | Solo                                                                         |
+| [Webserv][42-Webserv]                  | C++          | Trio with [Rpottier][Rpottier] and [Nburat-d][Nburat-d]                      |
+| [Inception][42-Inception]              | Docker       | Solo                                                                         |
+| [ft_transcendence][42-ft_transcendence]| React/Nestjs | Group with [Cdefonte][Cdefonte], [Jguigli][Jguigli] and [Ranuytte][Ranuytte] |
 
 
 <h2> 42 Post Common Core </h2>
@@ -99,6 +97,7 @@
 [42-ft_containers]:https://github.com/bsavinel/42-ft_containers
 [42-Webserv]:https://github.com/bsavinel/42-Webserv
 [42-Inception]:https://github.com/bsavinel/42-Inception
+[42-ft_transcendence]:https://github.com/bsavinel/ft_transcendence
 [42-ft_linear_regression]:https://github.com/bsavinel/42-ft_linear_regression
 [42-Modules ML]:https://github.com/bsavinel/42-ML_Module
 [42-Libasm]:https://github.com/bsavinel/42-libasm
