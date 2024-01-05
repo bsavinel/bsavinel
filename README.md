@@ -1,5 +1,7 @@
 <h1 align='center'> Skills & Technologies </h1>
 
+## Mastered Languages
+
 ![C]
 ![C++]
 ![Python]
@@ -9,11 +11,16 @@
 ![NestJS]
 ![PostgreSQL]
 
+## Learning in progress
+
+![Kubernetes]
+![Vagrant]
+
 ![Langage_github]
 
 <h1 align='center'> 42 Cursus </h1>
 
-<h2> 42 Common core </h2>
+## 42 Common core
 
 | Name                                   | Language     | Group                                                                        |
 |----------------------------------------|--------------|------------------------------------------------------------------------------|
@@ -34,10 +41,10 @@
 | [ft_transcendence][42-ft_transcendence]| React/Nestjs | Group with [Cdefonte][Cdefonte], [Jguigli][Jguigli] and [Ranuytte][Ranuytte] |
 
 
-<h2> 42 Post Common Core </h2>
+## 42 Post Common Core
 
 
-<h3> 42 Machine Learning </h3> 
+### 42 Machine Learning
 
 | Name                                            | Language | Group |
 |-------------------------------------------------|----------|-------|
@@ -45,7 +52,7 @@
 | [ft_linear_regression][42-ft_linear_regression] | Python   | Solo  |
 
 
-<h3> 42 Cybersecurity </h3>
+### 42 Cybersecurity
 
 | Name                         | Language | Group                      |
 |------------------------------|----------|----------------------------|
@@ -53,14 +60,14 @@
 | [Rainfall][42-rainfall]      | Multiple | Duo with [Rpoder][Rpoder]  |
 
 
-<h3> 42 Other </h3>
+### 42 Other
 
 | Name                | Language | Group |
 |---------------------|----------|-------|
 | [Libasm][42-Libasm] | Assembly | Solo  |
 
 
-<h2> 42 Rush </h2>
+## 42 Rush
 
 | Name                     | Language | Mate                 |
 |--------------------------|----------|----------------------|
@@ -122,11 +129,14 @@
 <!-- Github Link --->
 
 [Langage_github]: https://github-readme-stats.vercel.app/api/top-langs/?username=bsavinel&hide=roff,php,html,perl&layout=compact&theme=radical&show
-[C]:https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
-[C++]:https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[Docker]:https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-[Python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[ReactJs]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[PostgreSQL]:https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-[NestJs]:https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white
-[Git]:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[C]: https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[C++]: https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Docker]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[ReactJs]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[NestJs]: https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white
+[Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[Vagrant]: https://img.shields.io/badge/vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white
+
