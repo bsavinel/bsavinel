@@ -66,6 +66,11 @@
 |---------------------|----------|-------|
 | [Libasm][42-Libasm] | Assembly | Solo  |
 
+### 42 DevOps
+
+| Name                                          | Language           | Group                      |
+|-----------------------------------------------|--------------------|----------------------------|
+| [Inception_of_Things][42-Inception_of_Things] | Kubernetes/Vagrant | Duo with [Rpoder][Rpoder]  |
 
 ## 42 Rush
 
@@ -110,6 +115,7 @@
 [42-Libasm]:https://github.com/bsavinel/42-libasm
 [42-SnowCrash]:https://github.com/bsavinel/42-SnowCrash
 [42-rainfall]:https://github.com/rpoder/42-rainfall
+[42-Inception_of_Things]:https://github.com/bsavinel/42-Inception_of_Things
 
 <!-- Mate of project --->
 
