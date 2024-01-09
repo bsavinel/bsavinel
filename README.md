@@ -68,9 +68,9 @@
 
 ### 42 DevOps
 
-| Name                                          | Language           | Group                      |
-|-----------------------------------------------|--------------------|----------------------------|
-| [Inception_of_Things][42-Inception_of_Things] | Kubernetes/Vagrant | Duo with [Rpoder][Rpoder]  |
+| Name          | Language           | Group                      |
+|---------------|--------------------|----------------------------|
+| [IoT][42-IoT] | Kubernetes/Vagrant | Duo with [Rpoder][Rpoder]  |
 
 ## 42 Rush
 
@@ -115,7 +115,7 @@
 [42-Libasm]:https://github.com/bsavinel/42-libasm
 [42-SnowCrash]:https://github.com/bsavinel/42-SnowCrash
 [42-rainfall]:https://github.com/rpoder/42-rainfall
-[42-Inception_of_Things]:https://github.com/bsavinel/42-Inception_of_Things
+[42-IoT]:https://github.com/bsavinel/42-IoT
 
 <!-- Mate of project --->
 
