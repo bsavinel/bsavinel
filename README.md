@@ -52,14 +52,6 @@
 | [ft_linear_regression][42-ft_linear_regression] | Python   | Solo  |
 
 
-### 42 Cybersecurity
-
-| Name                         | Language | Group                      |
-|------------------------------|----------|----------------------------|
-| [42-SnowCrash][42-SnowCrash] | Multiple | Duo with [Rpoder][Rpoder]  |
-| [Rainfall][42-rainfall]      | Multiple | Duo with [Rpoder][Rpoder]  |
-
-
 ### 42 Other
 
 | Name                | Language | Group |
