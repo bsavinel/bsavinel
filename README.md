@@ -10,9 +10,6 @@
 ![ReactJs]
 ![NestJS]
 ![PostgreSQL]
-
-## Learning in progress
-
 ![Kubernetes]
 ![Vagrant]
 
